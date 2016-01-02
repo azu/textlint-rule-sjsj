@@ -13,7 +13,7 @@ tester.run("sjsj", rule, {
             errors:[
                 {
                     message: 'Babal => Babel\n' +
-                    '"Babel" detail on https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/BABEL.md'
+                    'See https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/BABEL.md for details on.'
                 }
             ]
         }

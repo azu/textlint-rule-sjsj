@@ -46,7 +46,7 @@ export default function (context, options = {}) {
                     const len = distanceWords(word, jargonWord);
                     if (len !== 0 && len <= distance) {
                         report(node, new RuleError(`${word} => ${jargonWord}
-"${jargonWord}" detail on ${jargon.url}`));
+See ${jargon.url} for details on.`));
                     }
                 })
             });
