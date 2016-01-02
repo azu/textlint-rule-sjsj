@@ -41,16 +41,22 @@ export default function (context, options = {}) {
                 return match && match[1];
             }).filter(word => word && word.length > 0);
             words.forEach(word => {
-                JARGONS.forEach(jargon => {
+                const foundMatchWord = JARGONS.some(jargon => {
                     const jargonWord = jargon.word;
                     // non-case sensitive
-                    if (word.toLowerCase() === jargonWord.toLowerCase()) {
-                        return;
-                    }
+                    // if match word then skip checking with other jargon
+                    return word.toLowerCase() === jargonWord.toLowerCase();
+                });
+                if (foundMatchWord) {
+                    return;
+                }
+                JARGONS.forEach(jargon => {
+                    const jargonWord = jargon.word;
                     const len = distanceWords(word, jargonWord);
                     if (len !== 0 && len <= distance) {
                         report(node, new RuleError(`${word} => ${jargonWord}
 See ${jargon.url} for details on.`));
+                        return true;
                     }
                 })
             });

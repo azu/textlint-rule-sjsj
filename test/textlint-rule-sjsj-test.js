@@ -6,12 +6,13 @@ import rule from "../src/textlint-rule-sjsj"
 tester.run("sjsj", rule, {
     valid: [
         "Babel is Babel.",
-        "babel is safe."
+        "babel is safe.",
+        "UMD is not AMD."
     ],
     invalid: [
         {
             text: "Babal",
-            errors:[
+            errors: [
                 {
                     message: 'Babal => Babel\n' +
                     'See https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/BABEL.md for details on.'
