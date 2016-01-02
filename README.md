@@ -1,4 +1,4 @@
-# textlint-rule-sjsj
+# textlint-rule-sjsj [![Build Status](https://travis-ci.org/azu/textlint-rule-sjsj.svg?branch=master)](https://travis-ci.org/azu/textlint-rule-sjsj)
 
 [textlint](https://github.com/textlint/textlint "textlint") rule that check spell using [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ "HugoGiraudel/SJSJ")(Simplified JavaScript Jargon).
 
