@@ -5,7 +5,8 @@ import rule from "../src/textlint-rule-sjsj"
 // ruleName, rule, expected[]
 tester.run("sjsj", rule, {
     valid: [
-        "Babel is Babel."
+        "Babel is Babel.",
+        "babel is safe."
     ],
     invalid: [
         {

@@ -43,6 +43,10 @@ export default function (context, options = {}) {
             words.forEach(word => {
                 JARGONS.forEach(jargon => {
                     const jargonWord = jargon.word;
+                    // non-case sensitive
+                    if (word.toLowerCase() === jargonWord.toLowerCase()) {
+                        return;
+                    }
                     const len = distanceWords(word, jargonWord);
                     if (len !== 0 && len <= distance) {
                         report(node, new RuleError(`${word} => ${jargonWord}
