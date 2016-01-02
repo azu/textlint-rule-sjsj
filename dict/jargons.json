@@ -1,0 +1,310 @@
+[
+    {
+        "word": "Yeoman",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/YEOMAN.md"
+    },
+    {
+        "word": "XHR",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/XHR.md"
+    },
+    {
+        "word": "Webpack",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/WEBPACK.md"
+    },
+    {
+        "word": "WebGL",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/WEBGL.md"
+    },
+    {
+        "word": "VueJS",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/VUEJS.md"
+    },
+    {
+        "word": "Virtual DOM",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/VIRTUAL_DOM.md"
+    },
+    {
+        "word": "Vanilla",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/VANILLA.md"
+    },
+    {
+        "word": "V8",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/V8.md"
+    },
+    {
+        "word": "Universal",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/UNIVERSAL.md"
+    },
+    {
+        "word": "Underscore",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/UNDERSCORE.md"
+    },
+    {
+        "word": "UMD",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/UMD.md"
+    },
+    {
+        "word": "TypeScript",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/TYPESCRIPT.md"
+    },
+    {
+        "word": "Three.js",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/THREEJS.md"
+    },
+    {
+        "word": "Sails",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/SAILS.md"
+    },
+    {
+        "word": "Require.js",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/REQUIREJS.md"
+    },
+    {
+        "word": "RxJS",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/RXJS.md"
+    },
+    {
+        "word": "Redux",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/REDUX.md"
+    },
+    {
+        "word": "React",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/REACT.md"
+    },
+    {
+        "word": "Ramda",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/RAMDA.md"
+    },
+    {
+        "word": "QUnit",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/QUNIT.md"
+    },
+    {
+        "word": "Prototype",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/PROTOTYPE.md"
+    },
+    {
+        "word": "Promise",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/PROMISE.md"
+    },
+    {
+        "word": "Polymer",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/POLYMER.md"
+    },
+    {
+        "word": "PhoneGap",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/PHONEGAP.md"
+    },
+    {
+        "word": "PhantomJS",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/PHANTOMJS.md"
+    },
+    {
+        "word": "nvm",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/NVM.md"
+    },
+    {
+        "word": "npm",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/NPM.md"
+    },
+    {
+        "word": "Node.js",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/NODEJS.md"
+    },
+    {
+        "word": "Nightmare",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/NIGHTMARE.md"
+    },
+    {
+        "word": "MEAN",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/MEAN.md"
+    },
+    {
+        "word": "Metalsmith",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/METALSMITH.md"
+    },
+    {
+        "word": "Mootools",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/MOOTOOLS.md"
+    },
+    {
+        "word": "Moment.js",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/MOMENTJS.md"
+    },
+    {
+        "word": "Mocha",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/MOCHA.md"
+    },
+    {
+        "word": "Meteor",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/METEOR.md"
+    },
+    {
+        "word": "Lodash",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/LODASH.md"
+    },
+    {
+        "word": "LocalForage",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/LOCALFORAGE.md"
+    },
+    {
+        "word": "Knockout",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/KNOCKOUT.md"
+    },
+    {
+        "word": "JSX",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/JSX.md"
+    },
+    {
+        "word": "JSON-LD",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/JSON-LD.md"
+    },
+    {
+        "word": "JSON",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/JSON.md"
+    },
+    {
+        "word": "JSLint",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/JSLINT.md"
+    },
+    {
+        "word": "JSHint",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/JSHINT.md"
+    },
+    {
+        "word": "JSCS",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/JSCS.md"
+    },
+    {
+        "word": "jQuery",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/JQUERY.md"
+    },
+    {
+        "word": "Jasmine",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/JASMINE.md"
+    },
+    {
+        "word": "Isomorphic",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/ISOMORPHIC.md"
+    },
+    {
+        "word": "IIFE",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/IIFE.md"
+    },
+    {
+        "word": "Hoisting",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/HOISTING.md"
+    },
+    {
+        "word": "Hapi",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/HAPI.md"
+    },
+    {
+        "word": "Gulp",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/GULP.md"
+    },
+    {
+        "word": "Grunt",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/GRUNT.md"
+    },
+    {
+        "word": "Flux",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/FLUX.md"
+    },
+    {
+        "word": "Falcor",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/FALCOR.md"
+    },
+    {
+        "word": "Express",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/EXPRESS.md"
+    },
+    {
+        "word": "ESLint",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/ESLINT.md"
+    },
+    {
+        "word": "Ember",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/EMBER.md"
+    },
+    {
+        "word": "ECMAScript",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/ECMASCRIPT.md"
+    },
+    {
+        "word": "DOM",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/DOM.md"
+    },
+    {
+        "word": "D3.js",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/D3JS.md"
+    },
+    {
+        "word": "Currying",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/CURRYING.md"
+    },
+    {
+        "word": "CouchDB",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/COUCHDB.md"
+    },
+    {
+        "word": "CORS",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/CORS.md"
+    },
+    {
+        "word": "CoffeeScript",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/COFFEESCRIPT.md"
+    },
+    {
+        "word": "Closure",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/CLOSURE.md"
+    },
+    {
+        "word": "Chai",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/CHAI.md"
+    },
+    {
+        "word": "Canvas",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/CANVAS.md"
+    },
+    {
+        "word": "Brunch",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/BRUNCH.md"
+    },
+    {
+        "word": "Browserify",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/BROWSERIFY.md"
+    },
+    {
+        "word": "Broccoli",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/BROCCOLI.md"
+    },
+    {
+        "word": "Bower",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/BOWER.md"
+    },
+    {
+        "word": "Bluebird",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/BLUEBIRD.md"
+    },
+    {
+        "word": "Backbone",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/BACKBONE.md"
+    },
+    {
+        "word": "Babel",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/BABEL.md"
+    },
+    {
+        "word": "AngularJS",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/ANGULARJS.md"
+    },
+    {
+        "word": "AMD",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/AMD.md"
+    },
+    {
+        "word": "AJAX",
+        "url": "https://github.com/HugoGiraudel/SJSJ/tree/master/glossary/AJAX.md"
+    }
+]
